@@ -6,3 +6,6 @@ function include(contenu) {
 document.getElementById('include').innerHTML=html;
 });
 }
+window.onload = function() {
+    include('accueilbv.html');
+};
