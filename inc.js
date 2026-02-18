@@ -7,5 +7,5 @@ document.getElementById('include').innerHTML=html;
 });
 }
 window.onload = function() {
-    include('accueilbv.html');
+    include('accueil.html');
 };
